@@ -1,3 +1,6 @@
+• Designed a secure health data platform focusing on user privacy, integrating advanced encryption techniques.
+• Collaborated with team members to define privacy protocols, ensuring compliance with ethical data standards.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
